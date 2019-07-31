@@ -7,7 +7,7 @@ If you are interested in trying the code of our application, you can make a clon
 
 If you want to contribute to the application as a contributor to the project, make a fork. Each time you are going to perform a pull request, you must specify correctly in the description of the same that was done in this request.
 
-El proyecto consiste en utilizar un datawarehouse provisto por Microsoft (AdventureWorks2017), con el propósito de crear un cubo OLAP, y en el mismo realizar consultas específicas de negocios.
+The project consists of using a datawarehouse provided by Microsoft (AdventureWorks2017), with the purpose of creating an OLAP cube, and in it to carry out specific business queries.
 
 ### Installing
 
